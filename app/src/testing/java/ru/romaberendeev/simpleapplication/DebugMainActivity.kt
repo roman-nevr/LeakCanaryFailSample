@@ -5,7 +5,6 @@ import android.os.Bundle
 import androidx.annotation.StringRes
 
 import kotlinx.android.synthetic.main.activity_main.*
-import ru.romaberendeev.simpleapplication.leakcanary.LeakCanaryFactory
 
 class DebugMainActivity : AppCompatActivity() {
 
